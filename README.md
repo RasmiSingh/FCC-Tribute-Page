@@ -1,5 +1,4 @@
 # freeCodeCamp Tribute Page
-freeCodeCamp Tribute Page Project 
 
 This is a project I did for the Responsive Web Design Certification on freeCodeCamp. The project is to develop a tribute page about someone you admire. I chose Nelson Mandela.
 
